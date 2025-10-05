@@ -35,15 +35,6 @@ Key steps included text preprocessing, feature engineering, sentiment analysis i
 
 ---
 
-## 📂 Repository Structure
-
-* `preprocessing/` → Scripts for cleaning and preparing text data
-* `models/` → ML models and training code
-* `results/` → Accuracy metrics and evaluation reports
-* `summary.md` → Thesis summary and key findings
-
----
-
 ## 🚀 Outcome
 
 This project demonstrated how combining traditional ML models with sentiment analysis can effectively detect and classify harmful fake news, offering a practical solution for reducing the spread of misinformation.
